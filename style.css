@@ -387,6 +387,8 @@ body {
     transition: 1s;
     transition-delay: 10000000s;
     margin-top: -1px;
+    border-bottom: 1px solid var(--stroke);
+    
 }
 
 .stlr:hover .stlr-cover {
