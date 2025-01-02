@@ -1,7 +1,5 @@
-body {
-    background: #0F0F0F;
-    height: 2000px;
-}
+
+.body {overflow: hidden}
 
 .dev-canvas {
     margin: 0;
@@ -37,7 +35,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-block: 50px;
 }
 
 .stlr {
