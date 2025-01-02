@@ -42,7 +42,7 @@ body {
 
 .stlr {
     width: 700px;
-    background: url(https://i.imgur.com/wfGA3G6.png);
+    background: url(./Pattern.png);
     border: 1px solid var(--stroke);
     font-family: 'Asul';
     color: var(--text);
@@ -81,7 +81,8 @@ body {
 .stlr .img-1 {
     width: 165px;
     height: 165px;
-    background: black;
+    background: url(./Principal.png);
+    background-size: cover;
     border: 1px solid var(--stroke);
     position: relative;
     z-index: 2;
@@ -124,8 +125,22 @@ body {
 .stlr-1 .img {
     width: 120px;
     height: 120px;
-    background: black;
     border: 1px solid var(--lightaccent)
+}
+
+.img-2 {
+    background: url(./Pociones.png);
+    background-size: cover;
+}
+
+.img-3 {
+    background: url(./Slytherin.png);
+    background-size: cover;
+}
+
+.img-4 {
+    background: url(./Biblioteca.png);
+    background-size: cover;
 }
 
 .stlr-1a {
@@ -201,7 +216,9 @@ body {
 
 .img-5 {
     width: 75%;
-    background: black;
+    background: url(./Secundaria.png);
+    background-size: cover;
+    background-position: center;
     border: 1px solid var(--lightaccent)
 }
 
