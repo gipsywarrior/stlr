@@ -282,7 +282,7 @@ body {
 }
 
 .stlr-3 .stats .vol::before {
-    background: url(./vol.png);
+    background: url(./Vol.png);
 }
 
 .stlr-3a {
@@ -388,7 +388,7 @@ body {
     transition-delay: 10000000s;
     margin-top: -1px;
     border-bottom: 1px solid var(--stroke);
-    
+
 }
 
 .stlr:hover .stlr-cover {
