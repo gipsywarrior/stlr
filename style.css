@@ -42,7 +42,7 @@ body {
 
 .stlr {
     width: 700px;
-    background: var(--base);
+    background: url(https://i.imgur.com/wfGA3G6.png);
     border: 1px solid var(--stroke);
     font-family: 'Asul';
     color: var(--text);
